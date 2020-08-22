@@ -6,7 +6,7 @@
 
 ### TODO
 - [x] [ReactJs](https://github.com/ilyasbat/Countries-with-ReactJs)
-- [ ] VueJs
+- [x] [VueJs](https://github.com/ilyasbat/countries-with-vuejs)
 - [ ] React Native
 
 ### [Demo](https://countries-html-css.vercel.app/)
