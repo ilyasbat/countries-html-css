@@ -1,4 +1,4 @@
-# countries html css
+# Countries
 ### Links
 - [Background Image](https://www.psdgraphics.com/backgrounds/world-map-background/)
 - [Icons](https://flaticon.com)
